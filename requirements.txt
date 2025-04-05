@@ -338,7 +338,6 @@ scikit-learn @ file:///C:/b/abs_daon7wm2p4/croot/scikit-learn_1694788586973/work
 scikit-optimize==0.10.2
 scipy==1.10.1
 Scrapy @ file:///C:/b/abs_b407wrcuij/croot/scrapy_1708714755460/work
-seaborn @ file:///C:/b/abs_ca2mi1rgmn/croot/seaborn_1718303534355/work
 Send2Trash @ file:///C:/b/abs_08dh49ew26/croot/send2trash_1699371173324/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 shap==0.44.1
